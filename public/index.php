@@ -2,7 +2,7 @@
 //require '../vendor/autoload.php';
 //use Application\Hello;
 
-// $_GET é uma variavel de ambiente, existe dentro do php
+// $_GET é uma variavel de ambiente, existe dentro do php / ?nome=Rafael
 $nome = $_GET['nome'];
 // '' para strings literais e "" para variaveis.
 $mensagem = "Boa Noite $nome";
