@@ -30,7 +30,6 @@
                 break;
         }
         
-       //$mensagem = $mensagem . $_POST['nome']; // . Concatena no php
        $mensagem .= $_POST['nome'] . "!"; // Concatena o nome enviado via POST. .= é o operador de concatenação
     } else {
         $mensagem = "Por favor, digite seu nome.";
