@@ -25,6 +25,5 @@ $num2 = 30;
     <h3>Primeiro teste usando php</h3>
     <?= $num1 + $num2 ?>
     <?= $num1 . $num2 ?> <!-- Concatenação com "." -->
-    
 </body>
 </html>

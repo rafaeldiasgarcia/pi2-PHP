@@ -13,7 +13,6 @@
                 echo "<li>" . ($cont * 2) . "</li>";
                 $cont++; // pós-incremento.
             }
-
             // While é o loop padrão das linguagens.
         ?>
         </ul>
